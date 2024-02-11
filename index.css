@@ -6,10 +6,10 @@ body{
     border-color: black;
 }
 .main-container h3{
-    margin-right: 10px;
+    margin-left: 10px;
 }
 .main-container p{
-    margin-right: 15px;
+    margin-left: 15px;
 }
 .link-container{
     background-color: rgb(184, 223, 223);
