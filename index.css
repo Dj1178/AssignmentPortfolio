@@ -1,0 +1,19 @@
+style{
+    body{
+        background-color: rgb(252, 241, 226);
+    }
+    .main-container{
+        background-color: rgb(255, 207, 149);
+        border-color: black;
+    }
+    .main-container h3{
+        margin-right: 10px;
+    }
+    .main-container p{
+        margin-right: 15px;
+    }
+    .link-container{
+        background-color: rgb(184, 223, 223);
+        border-color: black;
+    }
+}
